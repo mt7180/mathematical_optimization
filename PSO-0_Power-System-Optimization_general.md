@@ -30,7 +30,8 @@ _(blue: LP, green: LP or NLP, depending on specific formulation, rest: NLP)_
 
 <br>
 
-> [!NOTE] In general each **Constrained Optimization Model** consists of
+> [!NOTE]
+> In general each **Constrained Optimization Model** consists of
 > - an objective function to be minimized or maximized, 
 > - decision variables (variables to be adjusted), 
 > - and constraints (limitations on the values of the decision variables).  
