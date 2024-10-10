@@ -2,24 +2,41 @@
 
 # Mathematical Optimization 
 
-> This project focusses on linear (LP) and non-linear (NLP) programming /optimization of continuous, deterministic problems with python and python based frameworks like pyomo, linopy and pypsa (power system optimization).
+This is a project to learn about linear (LP) and non-linear (NLP) optimization with python and python based frameworks such as pyomo, linopy and pypsa (power system optimization).
 
-## General
+Basic optimization problems:
 
-Mathematical Optimization is a branch of applied mathematics focused on finding the best possible solution, typically minimizing or maximizing an objective function, subject to a set of constraints. It involves determining the optimal values of decision variables that satisfy conditions 
+LP:
+- [Optimal Job Scheduling](LP_ex1-post-office.ipynb)
+- [Traveling Salesman Problem/ Optimal Route](LP_ex2-Traveling-Salesman.ipynb)
+- [Transport Flow Optimization](LP_ex3-Transport-Problem.ipynb)
 
-Optimization problems can be classified as 
-- linear or non-linear
-- discrete or continuous
-- static or dynamic (over time)
-- deterministic or stochastic, 
+NLP:
+- [Area Optimization](NLP_ex1-L-shaped-house-area.ipynb)
 
-depending on the nature of the objective function and constraints. Techniques like linear programming, dynamic programming, and gradient-based methods are commonly used to solve these problems.
+
 
 ## Power System Optimization
-Power system optimization enables system operators to make informed decisions about generation dispatch, load balancing, and network configuration, ultimately leading to a more resilient and cost-effective power system.  
+ 
+Key models for power system optimization are investigated and illustrative examples are modelled with pyomo:
 
-In this repo key models for power system optimization are formulated mathematically and  pyomo/ linopy models are defined.
+- [Economic Dispatch (ED, DED, DED with ramp rates, DED + battery)](PSO-2_Economic_Dispatch.ipynb)
+- [Capacity Expansion](PSO-1_Capacity_Expansion.ipynb)
+- [General overview of 19 key optimization models for power system optimization with categorization: LP/ NLP](PSO-0_Power-System-Optimization_general.md)  
+  
+<br>
+
+> [!NOTE]   
+> Learning resources:  
+> - :fire: Course [**"Power System Optimization in Pyomo I"**](https://www.udemy.com/course/power-system-optimization-in-pyomo-p1/learn/lecture/32460340?start=210#overview):  
+ _ED, DED, Battery model, Wind, Sensitivity Analsysis, and Visualization modeling in Pyomo_  
+ _**Certificate**_: [www.ude.my/UC-3a55fc19-58a2-45ca-91ef-07ad3e409e95](www.ude.my/UC-3a55fc19-58a2-45ca-91ef-07ad3e409e95)
+<br>  
+> - :rocket: [Power Systems Optimization Course](https://github.com/Power-Systems-Optimization-Course/power-systems-optimization?tab=readme-ov-file) by Michael Davidson and Jesse Jenkins at Princeton/ UC San Diego
+> - :dart: Course ["Mathematical Optimization with GAMS and Pyomo"](https://www.udemy.com/course/mathematical-optimization-with-gams-and-pyomo-python/learn/practice/1325108?start=summary#overview)
+> - :seedling: Course ["Python-Powered Power Systems Analysis (**Pypsa** & Pandapower")](https://www.udemy.com/course/power-system-analysis-with-python/learn/lecture/41915156?start=0#overview) ... -> currently working on
+
+
 
 ## Useful Links 
 
