@@ -30,10 +30,9 @@ Key models for power system optimization are investigated and illustrative examp
 > Learning resources:  
 > - :fire: Course [**"Power System Optimization in Pyomo I"**](https://www.udemy.com/course/power-system-optimization-in-pyomo-p1/learn/lecture/32460340?start=210#overview):  
  _ED, DED, Battery model, Wind, Sensitivity Analsysis, and Visualization modeling in Pyomo_  
- _**Certificate**_: [www.ude.my/UC-3a55fc19-58a2-45ca-91ef-07ad3e409e95](www.ude.my/UC-3a55fc19-58a2-45ca-91ef-07ad3e409e95)
-<br>  
-> - :rocket: [Power Systems Optimization Course](https://github.com/Power-Systems-Optimization-Course/power-systems-optimization?tab=readme-ov-file) by Michael Davidson and Jesse Jenkins at Princeton/ UC San Diego
-> - :dart: Course ["Mathematical Optimization with GAMS and Pyomo"](https://www.udemy.com/course/mathematical-optimization-with-gams-and-pyomo-python/learn/practice/1325108?start=summary#overview)
+ _**Certificate**_: [www.ude.my/UC-3a55fc19-58a2-45ca-91ef-07ad3e409e95](www.ude.my/UC-3a55fc19-58a2-45ca-91ef-07ad3e409e95) 
+> - :rocket: [Power Systems Optimization Course](https://github.com/Power-Systems-Optimization-Course/power-systems-optimization?tab=readme-ov-file) by Michael Davidson and Jesse Jenkins at Princeton/ UC San Diego  
+> - :dart: Course ["Mathematical Optimization with GAMS and Pyomo"](https://www.udemy.com/course/mathematical-optimization-with-gams-and-pyomo-python/learn/practice/1325108?start=summary#overview)  
 > - :seedling: Course ["Python-Powered Power Systems Analysis (**Pypsa** & Pandapower")](https://www.udemy.com/course/power-system-analysis-with-python/learn/lecture/41915156?start=0#overview) ... -> currently working on
 
 
