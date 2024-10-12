@@ -22,7 +22,7 @@ Key models for power system optimization are investigated and illustrative examp
 
 - [Economic Dispatch (ED, DED, DED with ramp rates, DED + battery)](PSO-2_Economic_Dispatch.ipynb)
 - [Capacity Expansion](PSO-1_Capacity_Expansion.ipynb)
-- [General overview of 17 key optimization models for power system optimization. Depending on the formulation of the cost function and constraints, these can be LP/NLP problems.](PSO-0_Power-System-Optimization_general.md)  
+- [General overview of 17 key optimization models for power system optimization (LP/NLP)](PSO-0_Power-System-Optimization_general.md)  
   
 <br>
 
