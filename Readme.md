@@ -28,9 +28,11 @@ Key models for power system optimization are investigated and illustrative examp
 
 > [!NOTE]   
 > Learning resources:  
-> - :fire: Course [**"Power System Optimization in Pyomo I"**](https://www.udemy.com/course/power-system-optimization-in-pyomo-p1/learn/lecture/32460340?start=210#overview):  
+> - :fire: Course [**"Power System Optimization in Pyomo I"**](https://www.udemy.com/course/power-system-optimization-in-pyomo-p1/?couponCode=KEEPLEARNING):  
  _ED, DED, Battery model, Wind, Sensitivity Analsysis, and Visualization modeling in Pyomo_  
  _**Certificate**_: [www.ude.my/UC-3a55fc19-58a2-45ca-91ef-07ad3e409e95](www.ude.my/UC-3a55fc19-58a2-45ca-91ef-07ad3e409e95) 
+ > -  Course [**"Economic Dispatch Optimization of a grid with Wind & Storage"**](https://www.udemy.com/course/economic-dispatch/?couponCode=KEEPLEARNING): Python, Pyomo and GAMS for optimization. DED in 1-bus and 24-bus grid.
+ _**Certificate**_: [www.ude.my/UC-d6e45dc5-72b8-41ce-939c-2900397ed1c1](www.ude.my/UC-d6e45dc5-72b8-41ce-939c-2900397ed1c1)
 > - :rocket: [Power Systems Optimization Course](https://github.com/Power-Systems-Optimization-Course/power-systems-optimization?tab=readme-ov-file) by Michael Davidson and Jesse Jenkins at Princeton/ UC San Diego  
 > - :dart: Course ["Mathematical Optimization with GAMS and Pyomo"](https://www.udemy.com/course/mathematical-optimization-with-gams-and-pyomo-python/learn/practice/1325108?start=summary#overview)  
 > - :seedling: Course ["Python-Powered Power Systems Analysis (**Pypsa** & Pandapower")](https://www.udemy.com/course/power-system-analysis-with-python/learn/lecture/41915156?start=0#overview) ... -> currently working on
@@ -42,6 +44,7 @@ Key models for power system optimization are investigated and illustrative examp
 ### Power System Optimization - General
 https://github.com/Power-Systems-Optimization-Course/power-systems-optimization?tab=readme-ov-file
 https://invenia.github.io/blog/2021/06/18/opf-intro/
+https://gurobi-optimods.readthedocs.io/en/stable/mods/opf/opf.html
 
 
 ### Pyomo Tutorials
