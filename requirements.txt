@@ -1,4 +1,4 @@
 
-highspy
-pypsa
+pyomo
+linopy
 ipykernel
